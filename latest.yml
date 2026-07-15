@@ -1,8 +1,8 @@
-version: 0.1.16
+version: 0.1.21
 files:
-  - url: aureoinvest-setup-0.1.16.exe
-    sha512: XkwlibX56Wmc9hS/G7pGbqkG+CEtRL5fQp/WeW3dK+q8C4xgA7aGa+nQ/XHjXoO/9oez9qpV/2iHVuHxcf4sVQ==
-    size: 102185313
-path: aureoinvest-setup-0.1.16.exe
-sha512: XkwlibX56Wmc9hS/G7pGbqkG+CEtRL5fQp/WeW3dK+q8C4xgA7aGa+nQ/XHjXoO/9oez9qpV/2iHVuHxcf4sVQ==
-releaseDate: '2026-07-15T04:37:49.057Z'
+  - url: aureoinvest-setup-0.1.21.exe
+    sha512: isT+M/gQ3IP2O6ghaYaPTex3BCyxFu7n49UlnFvUI6O10BguAuoNvbT7YxOBT52O1OPjgBfdkO05095j+tFRAA==
+    size: 102200152
+path: aureoinvest-setup-0.1.21.exe
+sha512: isT+M/gQ3IP2O6ghaYaPTex3BCyxFu7n49UlnFvUI6O10BguAuoNvbT7YxOBT52O1OPjgBfdkO05095j+tFRAA==
+releaseDate: '2026-07-15T23:07:30.609Z'
